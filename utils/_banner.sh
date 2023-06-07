@@ -21,7 +21,7 @@ print_banner() {
 
   printf "\n\n"
 
-  printf "${GREEN}";
+  printf "${RED}";
   printf "                                                     ▄▄█▀▀▀▀▀▀▀█▄▄  \n";
   printf "                                                   ${RED}▄█▀${NC}   ${WHITE}▄▄${NC}      ${RED}▀█▄\n";
   printf "                                                   ${RED}█${NC}    ${WHITE}███${NC}         ${RED}█\n";

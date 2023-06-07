@@ -23,12 +23,12 @@ print_banner() {
 
   printf "${GREEN}";
   printf "                                                     ▄▄█▀▀▀▀▀▀▀█▄▄  \n";
-  printf "                                                   ${GREEN}▄█▀${NC}   ${WHITE}▄▄${NC}      ${GREEN}▀█▄\n";
-  printf "                                                   ${GREEN}█${NC}    ${WHITE}███${NC}         ${GREEN}█\n";
-  printf "                                                   ${GREEN}█${NC}    ${WHITE}██▄         ${GREEN}█${NC}\n";
-  printf "                                                   ${GREEN}█${NC}     ${WHITE}▀██▄${NC} ${WHITE}██${NC}    ${GREEN}█\n";
-  printf "                                                   ${GREEN}█${NC}       ${WHITE}▀███▀${NC}    ${GREEN}█\n";
-  printf "                                                   ${GREEN}▀█▄           ▄█▀\n";
+  printf "                                                   ${RED}▄█▀${NC}   ${WHITE}▄▄${NC}      ${RED}▀█▄\n";
+  printf "                                                   ${RED}█${NC}    ${WHITE}███${NC}         ${RED}█\n";
+  printf "                                                   ${RED}█${NC}    ${WHITE}██▄         ${RED}█${NC}\n";
+  printf "                                                   ${RED}█${NC}     ${WHITE}▀██▄${NC} ${WHITE}██${NC}    ${RED}█\n";
+  printf "                                                   ${RED}█${NC}       ${WHITE}▀███▀${NC}    ${RED}█\n";
+  printf "                                                   ${RED}▀█▄           ▄█▀\n";
   printf "                                                    ▄█    ▄▄▄▄█▀▀  \n";
   printf "                                                    █  ▄█▀        \n";
   printf "                                                    ▀▀▀▀          \n";
